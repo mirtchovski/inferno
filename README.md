@@ -6,12 +6,12 @@ VitaNuova](http://vitanuova.com). Written around 2004-2005.
 
 [/sokoban](https://github.com/mirtchovski/inferno/tree/master/sokoban): A written from scratch variation of the game Sokoban
 
-![sokoban](https://github.com/mirtchovski/inferno/raw/master/img/sokoban-inferno.png "sokoban screenshot")
+![sokoban](https://github.com/mirtchovski/inferno/raw/master/img/sokoban.png "sokoban screenshot")
 
 
 [/screen](https://github.com/mirtchovski/inferno/tree/master/screen): Ports of various screen manglers from [XScreensaver](https://www.jwz.org/xscreensaver/)
 
-![screen](https://github.com/mirtchovski/inferno/raw/master/img/screen-inferno.png "screenshot")
+![screen](https://github.com/mirtchovski/inferno/raw/master/img/zoom.png "screenshot")
 
 
 * [Decay](https://github.com/mirtchovski/inferno/tree/master/screen/decay.b): Slowly decays the screen into an unreadable mess.
