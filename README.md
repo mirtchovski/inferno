@@ -1,7 +1,7 @@
 # Inferno
 
 Toy programs, games, and screen manglers for the operating system [Inferno by
-VitaNuova](http://vitanuova.com)
+VitaNuova](http://vitanuova.com). Written around 2004-2005.
 
 
 [/sokoban](https://github.com/mirtchovski/inferno/tree/master/sokoban)
