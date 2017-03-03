@@ -4,10 +4,9 @@ Toy programs, games, and screen manglers for the operating system [Inferno by
 VitaNuova](http://vitanuova.com). Written around 2004-2005.
 
 
-[/sokoban](https://github.com/mirtchovski/inferno/tree/master/sokoban)
+[/sokoban](https://github.com/mirtchovski/inferno/tree/master/sokoban): A written from scratch variation of the game Sokoban
 
-[/screen](https://github.com/mirtchovski/inferno/tree/master/screen) contains Ports of various screen manglers from XScreensaver to the Inferno Operating
-System from VitaNuova.
+[/screen](https://github.com/mirtchovski/inferno/tree/master/screen): Ports of various screen manglers from [XScreensaver](https://www.jwz.org/xscreensaver/)
 
 * [Decay](https://github.com/mirtchovski/inferno/tree/master/screen/decay.b): Slowly decays the screen into an unreadable mess.
 * [Lens](https://github.com/mirtchovski/inferno/tree/master/screen/lens.b): zooms the screen region under the mouse (a rewrite of Plan 9’s lens)
