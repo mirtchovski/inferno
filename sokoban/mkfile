@@ -1,0 +1,25 @@
+TARG=\
+	sokoban.dis\
+
+SYSMODULES=\
+	bufio.m\
+	draw.m\
+	sys.m\
+	tk.m\
+	tkclient.m\
+
+DISBIN=$ROOT/dis/wm
+
+all:V:	sokoban.dis
+
+<$ROOT/mkfiles/mkdis
+
+install:V:	$ROOT/dis/wm/sokoban.dis
+
+$ROOT/dis/wm/sokoban.dis:	sokoban.dis
+	rm -f $target && cp sokoban.dis $target
+
+sokoban.dis:	$SYS_MODULES
+
+nuke:V:
+	rm -f $ROOT/dis/wm/sokoban.dis
